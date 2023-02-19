@@ -1,5 +1,0 @@
-GoogleCloud, project - dashboard, my Client ID:
-
-709830748761-tqqd4minm9ch50l0393vale2e91s9vkr.apps.googleusercontent.com
-
-https://console.cloud.google.com/apis/credentials?highlightClient=709830748761-tqqd4minm9ch50l0393vale2e91s9vkr.apps.googleusercontent.com&project=totemic-sector-377616
